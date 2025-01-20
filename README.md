@@ -3,4 +3,4 @@
 -ESTADO CULMINADO.
 
 para ejecutar el archivo debes poner 
-""npm install react""
+```npm install react```
