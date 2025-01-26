@@ -4,3 +4,5 @@
 
 para ejecutar el archivo debes poner 
 ```npm install react```
+
+Un juego aleatorio 
